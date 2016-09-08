@@ -1,0 +1,3 @@
+This is a file to make the source controller and the compiler to create this folder, even while there's no other file in it.
+
+This folder is a container for add-ones (modules).
